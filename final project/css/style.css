@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Notable|Yatra+One&display=swap');
+
+body {
+  background-color: #f9f2ec;
+  color: black;
+  font-stretch: extra-condensed;
+  font-family: "Yatra One", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 80px;
+  text-transform: lowercase;
+  color:  #604020;
+  text-shadow: 1px 5px 5px #dfbf9f;
+  letter-spacing: 1px;
+  font-family: "Notable", sans-serif;
+
+}
+
+h2 {
+  color: #b35900;
+  text-align: center;
+  margin: 100px;
+}
+
+body img{
+  width: 30%;
+  margin: 0 auto;
+  display: inline-block;
+
+}
+
+.images1{
+  text-align: center;
+
+}
+h6{
+  text-align: right;
+  color: #4d2600;
+}
