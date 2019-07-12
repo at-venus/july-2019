@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Press+Start+2P&display=swap');
+
+body {
+  background-color: white;
+  background-image: url(https://brand.cfaes.ohio-state.edu/sites/brand/files/imce/art/CFAES_backgrounds/Grid_Pattern_Simple_White.jpg);
+  color: #fa7d00;
+  background-repeat: repeat;
+  background-position: center;
+  font-stretch: extra-condensed;
+
+  font-family: "Press Start 2P", cursive;
+  font-weight: lighter;
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  text-transform: lowercase;
+  color: black;
+  text-shadow: 10px 10px 10px #EFFF29;
+  letter-spacing: 3px;
+  font-family: "Press Start 2P", cursive;
+  font-size: 50px;
+
+}
+
+p{
+  margin-top: 300px;
+
+}
+
+.right-image{
+  margin-bottom: 10px;
+  margin-top: 50px;
+
+
+}
+
+.left-image{
+  margin-right: 350px;
+  margin-top: 50px;
+}
